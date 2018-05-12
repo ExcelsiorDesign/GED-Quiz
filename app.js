@@ -47,7 +47,7 @@ var questions = [
     new Question("Solve 5x + 8 < 3(x + 2)", ["x < -1", "x < -3", "x > 1", " x > -3/4"], "x < -1"),
     new Question("Simplify (x6)(x5)", ["2x^11", "2x^30","x^11", "x^30"], "x^11"),
     new Question("The area of a circle is 100π. What is the diameter (D) of the circle?", ["10", "20", "30", "40"], "20"),
-    new Question("MVC is a ____.", ["Language", "Library", "Framework", "All"], "Framework")
+    new Question("If a = −4, and b = 3, what is |a − b|?", ["1", "3", "4", "7"], "7")
 ];
 
 // create quiz
